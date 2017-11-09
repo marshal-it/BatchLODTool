@@ -1,0 +1,26 @@
+{
+	"FileVersion" : 3,
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"FriendlyName" : "BatchLODTool",
+	"Description" : "Can use custom lodsetting value batch to add and change staticmesh's LOD level.",
+	"Category" : "LOD",
+	"CreatedBy" : "少狼",
+	"CreatedByURL" : "",
+	"DocsURL" : "",
+	"MarketplaceURL" : "",
+	"SupportURL" : "",
+	"EngineVersion" : "4.17.0",
+	"CanContainContent" : false,
+	"IsBetaVersion" : false,
+	"Installed" : true,
+	"RequiresBuildPlatform" : false,
+	"Modules" :
+	[
+		{
+			"Name" : "BatchLODTool",
+			"Type" : "Editor",
+			"LoadingPhase" : "Default"
+		}
+	]
+}
