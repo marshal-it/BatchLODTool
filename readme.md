@@ -13,3 +13,7 @@ pic:
 ![image](https://github.com/marshal-it/BatchLODTool/blob/master/Resources/4.png)
 
 ![image](https://github.com/marshal-it/BatchLODTool/blob/master/Resources/5.png)
+
+
+youtube: https://youtu.be/t3QhoW6MGPg
+
